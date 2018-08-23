@@ -1,0 +1,10 @@
+.fruit-list-item{
+    background-color: lightgray;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.fruit-list-item__label{
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+export { default as Home } from './Home/Home';
+export { default as LoginPage } from './Login/Login';
+export { default as AdminClientsPage } from './AdminClients/AdminClients';
+export { default as AdminClientPage } from './AdminClient/AdminClient';
+export { default as AdminFruitsPage } from './AdminFruits/AdminFruits';
+export { default as AdminOrdersPage } from './AdminOrders/AdminOrders';
+export { default as CustomerProfilePage } from './CustomerProfile/CustomerProfile';
+export { default as CustomerOrdersPage } from './CustomerOrders/CustomerOrders';
+export { default as NewOrderPage } from './NewOrder/NewOrder';
+export { default as AdminNewClientPage } from './AdminNewClient/AdminNewClient';
+export { default as AdminNewFruitPage } from './AdminNewFruit/AdminNewFruit';
